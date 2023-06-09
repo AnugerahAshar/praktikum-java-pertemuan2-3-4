@@ -9,8 +9,4 @@ package com.anugerahashar.perpustakaanapp;
  * @author Ashar
  */
 public class PerpustakaanApp {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
 }
